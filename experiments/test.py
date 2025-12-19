@@ -12,7 +12,7 @@ MAX_ROLL = 50
 MAX_PITCH_pos = 35
 MAX_PITCH_neg = 42
 MAX_YAW = 90
-MAX_BODY_YAW = 20
+MAX_BODY_YAW = 21
 
 with ReachyMini() as reachy_mini:
     # Move the head up (10mm on z-axis) and roll it 15 degrees

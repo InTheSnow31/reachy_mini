@@ -8,7 +8,7 @@ from reachy_mini.utils import create_head_pose
 # ========= PARAMÈTRES =========
 N_SAMPLES = 1000          # nombre de tests à faire
 DURATION = 1.5            # durée de chaque mouvement
-OUTPUT_FILE = "pose_dataset.json"
+OUTPUT_FILE = "pose_dataset_3.json"
 SEED = 42                 # pour reproductibilité
 # ==============================
 
